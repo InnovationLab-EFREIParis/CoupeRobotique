@@ -1,10 +1,13 @@
 # Infos principales
 ## Evenement
-Du 08 au 11 mai 2024 au parc des expo la Roche sur Yon
+Du 08 au 11 mai 2024 au parc des expo de la Roche sur Yon
 
 ## Liens
-https://www.coupederobotique.fr/edition-2024/le-concours/reglement-2024/
+https://www.coupederobotique.fr/edition-2024/le-concours/reglement-2024/\
 https://discord.gg/tteC3Cp
+
+# Todo list
+
 
 
 
